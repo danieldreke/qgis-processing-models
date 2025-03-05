@@ -1,6 +1,6 @@
-# qgismodels
+# QGIS Processing Models
 
-- May these created processing models be of help to you
+- Collection of created processing models to simplify work/processing pipelines
 - Be aware that some models depend on each other
 - Add a model via `Model` > `Add Model to Toolbox` in the Processing Toolbox
 
